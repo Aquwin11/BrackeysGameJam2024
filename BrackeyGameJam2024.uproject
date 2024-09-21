@@ -19,10 +19,6 @@
 			]
 		},
 		{
-			"Name": "AndroidDeviceProfileSelector",
-			"Enabled": false
-		},
-		{
 			"Name": "AndroidMedia",
 			"Enabled": false
 		},
@@ -70,31 +66,7 @@
 			"Enabled": false
 		},
 		{
-			"Name": "ChaosClothEditor",
-			"Enabled": false
-		},
-		{
-			"Name": "ChaosCloth",
-			"Enabled": false
-		},
-		{
-			"Name": "ChaosEditor",
-			"Enabled": false
-		},
-		{
-			"Name": "ChaosNiagara",
-			"Enabled": false
-		},
-		{
-			"Name": "ChaosSolverPlugin",
-			"Enabled": false
-		},
-		{
 			"Name": "SequencerAnimTools",
-			"Enabled": false
-		},
-		{
-			"Name": "AnimationData",
 			"Enabled": false
 		},
 		{
@@ -132,6 +104,14 @@
 		{
 			"Name": "CharacterAI",
 			"Enabled": false
+		},
+		{
+			"Name": "ChaosCaching",
+			"Enabled": true
+		},
+		{
+			"Name": "GeometryCollectionPlugin",
+			"Enabled": true
 		}
 	]
 }
