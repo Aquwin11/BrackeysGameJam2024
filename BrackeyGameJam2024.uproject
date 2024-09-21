@@ -70,14 +70,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "ChaosClothEditor",
-			"Enabled": false
-		},
-		{
-			"Name": "ChaosCloth",
-			"Enabled": false
-		},
-		{
 			"Name": "ChaosEditor",
 			"Enabled": false
 		},
@@ -132,6 +124,18 @@
 		{
 			"Name": "CharacterAI",
 			"Enabled": false
+		},
+		{
+			"Name": "ChaosClothAsset",
+			"Enabled": true
+		},
+		{
+			"Name": "ChaosClothAssetEditor",
+			"Enabled": true
+		},
+		{
+			"Name": "ChaosClothGenerator",
+			"Enabled": true
 		}
 	]
 }
